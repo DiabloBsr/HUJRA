@@ -1,6 +1,0 @@
-andry.rakoto@example.com
-    TmpPass!2025
-marie.rasoa@example.com
-    AutreMotFort123!
-jean.dupont@example.com
-    MotDePasseSecurise2025!

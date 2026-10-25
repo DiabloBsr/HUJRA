@@ -28,3 +28,9 @@ media/
 .idea/
 .vscode/
 .DS_Store
+# Environnements et IDE
+.venv/
+.vs/
+
+# Fichiers générés
+.flutter-plugins-dependencies
